@@ -10,6 +10,7 @@
 	<classpathentry exported="true" kind="lib" path="libs/Module_Android_DemoPower_1.7.5.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/ModuleAPI_J.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/R2K.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/uhf_7.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/fastjson-1.2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/uhf_7.4.8.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
